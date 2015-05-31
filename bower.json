@@ -15,5 +15,6 @@
   "dependencies": {
     "polymer": "Polymer/polymer#0.5",
     "core-ajax": "Polymer/core-ajax#0.5"
-  }
+  },
+  "homepage": "https://github.com/NorfolkNChance/PolymerSample"
 }
