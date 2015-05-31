@@ -1,0 +1,5 @@
+To run server, $ DEBUG=PolymerSample npm start
+Server can be found on http://localhost:3000
+
+Using Node, Polymer, Express
+To follow, Karma and Jasmine for continuous integration during development.

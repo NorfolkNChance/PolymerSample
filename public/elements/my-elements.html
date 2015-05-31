@@ -1,7 +1,11 @@
 <link rel="import" href="../bower_components/polymer/polymer.html"></link>
-	
-<polymer-element name="my-element" noscript>
+
+<dom-module id="my-element">
 	<template>
 		<span>Hello from <b>my-element</b>. This is my Shadow DOM.</span>
 	</template>
-</polymer-element>
+</dom-module>
+
+<script>
+	Polymer({is: "my-element"});
+</script>
